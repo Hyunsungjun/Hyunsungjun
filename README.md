@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-__프론트엔드: React__ 
-__백엔드: django__
-__데이터: python__
+__프론트엔드: React__   
+__백엔드: django__   
+__데이터: python__   
 
 <!--
 **Hyunsungjun/Hyunsungjun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
